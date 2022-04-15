@@ -1,16 +1,22 @@
 ### Hi there 👋
+I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects.
+🔭 I’m currently working on deploying deep learning models on edge devices. I'm working on android/IOS/Web development using React.
+📫 How to reach me: ayush.chaurarsia@gmail.com
 
-<!--
-**AyushExel/AyushExel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡  Some of my notable open source contributions:
 
-Here are some ideas to get you started:
+* [Yolov5](https://github.com/ultralytics/yolov5)(25k Stars) - Most commits  after the creator. Built MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [HuggingFace](https://github.com/huggingface/transformers)(60k Stars) - Added support for W&B backend for hyperparameter tuning for transformer models. ([PR](https://github.com/huggingface/transformers/pull/14582))
+
+* [Detectron2](https://github.com/facebookresearch/detectron2) (20K Start) - Worked with FAIR to build W&B integration to manage experiment tracking and model evaluation. ([PR](https://github.com/facebookresearch/detectron2/pull/3716))
+
+* [SpaCy](https://github.com/explosion/spaCy) (23K Stars) - Built experiment and dataset management integration with W&B.([PR](https://github.com/explosion/spaCy/pull/7429))
+
+* [PyCaret](https://github.com/pycaret/pycaret) (5k Stars) - Redesigned entire dashboard logging API from scratch to support all types of experiment types in AutoML. ([PR](https://github.com/pycaret/pycaret/pull/2231))
+
+* [Coqui-TTS](https://github.com/coqui-ai/TTS) (4.4k Stars) - Built experiment management API and added support for W&B. ([PR](https://github.com/coqui-ai/TTS/pull/613))
+
+* [CycleGan-and-Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) (17K Stars) - Added support for training and inference tracking. ([PR](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/pull/1317))
+
+* [Wandb](https://github.com/wandb/client) (3.8K Stars) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows). ([PR](https://github.com/wandb/client/pull/2503))
