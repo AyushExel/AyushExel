@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects.
 🔭 I’m currently working on deploying deep learning models on edge devices. I'm working on android/IOS/Web development using React.
+
 📫 How to reach me: ayush.chaurarsia@gmail.com
 
 ⚡  Some of my notable open source contributions:
