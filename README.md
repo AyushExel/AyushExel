@@ -22,4 +22,6 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 * [Wandb](https://github.com/wandb/client) (3.8K Stars) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows). ([PR](https://github.com/wandb/client/pull/2503))
 
+![](https://komarev.com/ghpvc/?username=AyushExel&color=green)
+
 <img width="53%"  src="https://github-readme-stats.vercel.app/api?username=AyushExel&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" /><img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AyushExel&hide_border=true" />
