@@ -21,3 +21,5 @@ I'm an engineer with interest in applied ML and software development. I love wor
 * [CycleGan-and-Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) (17K Stars) - Added support for training and inference tracking. ([PR](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/pull/1317))
 
 * [Wandb](https://github.com/wandb/client) (3.8K Stars) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows). ([PR](https://github.com/wandb/client/pull/2503))
+
+<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=AyushExel&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" /><img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AyushExel&hide_border=true" />
