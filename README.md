@@ -2,11 +2,12 @@
 I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects.
 🔭 I’m currently working on deploying deep learning models on edge devices. I'm working on android/IOS/Web development using React.
 
+I'm a core maintainer and ML engineer of [Yolov5](https://github.com/ultralytics/yolov5)(31k Stars)
 📫 How to reach me: ayush.chaurarsia@gmail.com
 
 ⚡  Some of my notable open source contributions:
 
-* [Yolov5](https://github.com/ultralytics/yolov5)(25k Stars) - Most commits  after the creator. Built MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
+* [Yolov5](https://github.com/ultralytics/yolov5)(31k Stars) - Most commits  after the creator. Built Segmentation support and MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
 
 * [HuggingFace](https://github.com/huggingface/transformers)(60k Stars) - Added support for W&B backend for hyperparameter tuning for transformer models. ([PR](https://github.com/huggingface/transformers/pull/14582))
 
