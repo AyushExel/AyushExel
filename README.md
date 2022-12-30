@@ -28,3 +28,9 @@ I'm an engineer with interest in applied ML and software development. I love wor
 ![](https://komarev.com/ghpvc/?username=AyushExel&color=green)
 
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AyushExel&hide_border=true" /><img width="53%"  src="https://github-readme-stats.vercel.app/api?username=AyushExel&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+
+## Socials
+<a href="https://twitter.com/loldedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loldedxd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ayushchaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayushchaurasia" height="30" width="40" /></a>
+### My latest post
+  [![Why Recruitment in ML is broken]( https://yt-embed.live/embed?v=bGYQMkBjpik)](https://www.youtube.com/watch?v=bGYQMkBjpik)
