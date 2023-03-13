@@ -9,11 +9,11 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 ⚡  Some of my notable open source contributions:
 
-* [Yolov5](https://github.com/ultralytics/yolov5)(31k Stars) - Most commits  after the creator. Built Segmentation support and MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
+* [Yolov5](https://github.com/ultralytics/yolov5)(36k Stars) - Most commits  after the creator. Built Segmentation support and MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
 
-* [HuggingFace](https://github.com/huggingface/transformers)(60k Stars) - Added support for W&B backend for hyperparameter tuning for transformer models. ([PR](https://github.com/huggingface/transformers/pull/14582))
+* [HuggingFace](https://github.com/huggingface/transformers)(80k Stars) - Added support for W&B backend for hyperparameter tuning for transformer models. ([PR](https://github.com/huggingface/transformers/pull/14582))
 
-* [Detectron2](https://github.com/facebookresearch/detectron2) (20K Start) - Worked with FAIR to build W&B integration to manage experiment tracking and model evaluation. ([PR](https://github.com/facebookresearch/detectron2/pull/3716))
+* [Detectron2](https://github.com/facebookresearch/detectron2) (22K Start) - Worked with FAIR to build W&B integration to manage experiment tracking and model evaluation. ([PR](https://github.com/facebookresearch/detectron2/pull/3716))
 
 * [SpaCy](https://github.com/explosion/spaCy) (23K Stars) - Built experiment and dataset management integration with W&B.([PR](https://github.com/explosion/spaCy/pull/7429))
 
@@ -23,7 +23,7 @@ I'm an engineer with interest in applied ML and software development. I love wor
 
 * [CycleGan-and-Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) (17K Stars) - Added support for training and inference tracking. ([PR](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/pull/1317))
 
-* [Wandb](https://github.com/wandb/client) (3.8K Stars) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows). ([PR](https://github.com/wandb/client/pull/2503))
+* [Wandb](https://github.com/wandb/client) (5K Stars) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows). ([PR](https://github.com/wandb/client/pull/2503))
 
 ![](https://komarev.com/ghpvc/?username=AyushExel&color=green)
 
