@@ -33,4 +33,6 @@ I'm an engineer with interest in applied ML and software development. I love wor
 <a href="https://twitter.com/loldedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loldedxd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ayushchaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayushchaurasia" height="30" width="40" /></a>
 ### My latest post
+LLM university: Get upto speed with LLMs using one resouce 
+
 [![LLM university: Get upto speed with LLMs using one resouce](https://markdown-videos.deta.dev/youtube/vivrF2TFFdY)](https://youtu.be/vivrF2TFFdY)
