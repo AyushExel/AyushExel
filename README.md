@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an engineer with interest in applied ML and software development. I love working with and contributing to open source projects.
+I'm an engineer with interest in applied ML and software development.
 
 🔭 I'm a core maintainer and ML engineer of [Yolov5](https://github.com/ultralytics/yolov5) and co creator of [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
    
