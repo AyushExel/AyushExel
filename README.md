@@ -17,7 +17,7 @@ I'm an engineer with interest in applied ML and software development.
 
 * [SpaCy](https://github.com/explosion/spaCy) - Built experiment and dataset management integration with W&B.
 
-* [PyCaret](https://github.com/pycaret/pycaret) - Redesigned entire dashboard logging API from scratch to support all types of experiment types in AutoML. ([PR](https://github.com/pycaret/pycaret/pull/2231))
+* [PyCaret](https://github.com/pycaret/pycaret) - Redesigned entire dashboard logging API from scratch to support all types of experiment types in AutoML.
 
 * [Coqui-TTS](https://github.com/coqui-ai/TTS) - Built experiment management API and added support for W&B. 
 
