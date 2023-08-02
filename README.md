@@ -9,22 +9,22 @@ I'm an engineer with interest in applied ML and software development.
 
 ⚡  Some of my other notable open source contributions:
 
-* [Yolov5](https://github.com/ultralytics/yolov5) - Most commits  after the creator. Built Segmentation support and MLOps features that allow users to make their pipelines device independent, enable better tracing and utilize spot instances.
+* [Yolov5](https://github.com/ultralytics/yolov5)
 
-* [HuggingFace](https://github.com/huggingface/transformers) - Added support for W&B backend for hyperparameter tuning for transformer models.
+* [HuggingFace](https://github.com/huggingface/transformers)
 
-* [Detectron2](https://github.com/facebookresearch/detectron2) - Worked with FAIR to build W&B integration to manage experiment tracking and model evaluation.
+* [Detectron2](https://github.com/facebookresearch/detectron2)
 
-* [SpaCy](https://github.com/explosion/spaCy) - Built experiment and dataset management integration with W&B.
+* [SpaCy](https://github.com/explosion/spaCy) 
 
-* [PyCaret](https://github.com/pycaret/pycaret) - Redesigned entire dashboard logging API from scratch to support all types of experiment types in AutoML.
+* [PyCaret](https://github.com/pycaret/pycaret)
 
-* [Coqui-TTS](https://github.com/coqui-ai/TTS) - Built experiment management API and added support for W&B. 
+* [Coqui-TTS](https://github.com/coqui-ai/TTS)
 
-* [CycleGan-and-Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Added support for training and inference tracking. 
+* [CycleGan-and-Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - 
 
-* [Wandb](https://github.com/wandb/client) - Built a console login timeout feature which supports teletype consoles for all platforms( Linux, Unix, and Windows).
-
+* [Wandb](https://github.com/wandb/client)
+  
 ![](https://komarev.com/ghpvc/?username=AyushExel&color=green)
 
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AyushExel&hide_border=true" /><img width="53%"  src="https://github-readme-stats.vercel.app/api?username=AyushExel&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
