@@ -25,16 +25,43 @@ desired result .** Everything else and all other philosophies are just hunches t
 - ### So, what makes a good UX
   
 Time to step into users' shoes. What are some traits of humans in general, not just devs. 
+
 **Low attention span**
-**Not wanting to put intellectual effort into something unless absolutely required to**
+
+**Not wanting to put intellectual effort into learning something new unless absolutely required to**
+
 **Wanting to make use of existing skillset in future endeavors, or simply put transferability**
+
 **Having a quick & easy determinant of progress, for dopamine release periodically**
 
 I won't explain the "WHY" of above pointers too much in writing (but probably will in a complementary video that I might make on this. It'll be linked somewhere on this blog. I got this idea while writing this that I should 
 probably make a video just going through this blog that'll allow me to go in-depth on each pointer, that I can't do by writing as it takes more time)
 But I want to focus more on "HOW" this information can be helpful as a tool creator. Things will start to get more technical and specific from this point.
 
-[.....TO BE CONTINUED.....]
+### Pre-requisite for designing good UX
+One of the most difficult learnings that I've had and have also heard from other good contacts is deciding when you're supposed to guess on user's behalf and when you go all out
+looking for feedback to iterate upon. It's uderstandable why its so difficult. Think about it - these statements are all true depending on time and perspective - "User is 
+always right", "Iterate fast on feedback", & "Users don't know what they want and sometimes you've got to nudge them".
+
+Depending on the stage of you project, any or all of them can be true. But they're all contradicting - one requires you to put yourself in shoes of the potential user and think of the ideal experience that should have when using a finished product. The other basically asks for feedback and iterates.
+
+So how do you know what applies to you? One mental excercise that I have is - If you're confused about where you stand, you might be right. And if you sure you're right, you're definitely doing something wrong. So, ideally, this framework is designed to keep you in the doubtful questioning mode constantly, and then if the feedback starts flowing in,
+you know that the "User is always right" and you've got to "Iterate fast on feedback"; if not then probably you haven't been showing users things interesting enough to nudge 
+them to try your tool. 
+Just remember this  thought excercise is designed to be done constantly, not just once you design the APIs, but at every feature level. 
+
+OK now onto the next part where I'll cover the previous section.
+
+- **Low attention span** and **Not wanting to put intellectual effort into learning something new unless absolutely required to** are pretty much the same outcome of different
+  phenomema. First, fails to establish the value prop of a tool **(New idea, bad API)** while the 2nd has implicit value but the mental investment needed seems too high. **(Established idea, bad API)** 
+
+- **Wanting to make use of existing skillset in future endeavors, or simply put transferability** - This is basically what the umbrella term "familiarity" practically is. It is a way of introducing user to new features, based off of their existing stack. It is probably the most  common way of creating vendor lockins as well but again, that is beyond the scope. For example, someone using a nosql DB for managing application data would much rather use the same tool's extension to manage searching unless the tradeoffs are
+  significant. Selling them a new API via an independent tool that does the same thing will most likely fail unless the tradeoff isn't dramatic. This'll put us back to one of the
+  2 problems discussed above.
+
+- **Having a quick & easy determinant of progress, for dopamine release periodically** 
+
+[..............TO BE CONTINUED..............]
 
 
 
